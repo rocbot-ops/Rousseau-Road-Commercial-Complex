@@ -1,0 +1,291 @@
+#: locale=en
+
+## Action
+
+### URL
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3794.66270118047!2d-76.7981337!3d17.9944231!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8edb3f95e94b97ad%3A0xdabeb67a6abd84c0!2s11%20Rousseau%20Rd%2C%20Kingston!5e0!3m2!1sen!2sjm!4v1773056111819!5m2!1sen!2sjm
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3794.66270118047!2d-76.7981337!3d17.9944231!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8edb3f95e94b97ad%3A0xdabeb67a6abd84c0!2s11%20Rousseau%20Rd%2C%20Kingston!5e0!3m2!1sen!2sjm!4v1773056111819!5m2!1sen!2sjm
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_DEB4A224_FC18_F1F5_41C7_79DCF912ADE8.text = Bathroom
+HotspotPanoramaOverlayTextImage_CD3D240D_FCFF_63C6_41DE_8E0D7EA8706B.text = PRESS FOR TUTORIAL
+
+## Media
+
+### Audio
+audiores_EA7561D5_F364_1073_41ED_0F1809E58E93.mp3Url = media/audio_EB11668E_F35C_70D1_41E2_17D19D10BF47_en.mp3
+
+### Audio Subtitles
+
+### Floorplan
+
+### Image
+imlevel_DE2050C0_FDA7_DB50_41ED_CA253BCCE0DA.url = media/map_EE7666DF_D2C9_8B76_419D_9AABB5A00B54_en_0.webp
+imlevel_DE2040C1_FDA7_DB50_41E1_EC962C806675.url = media/map_EE7666DF_D2C9_8B76_419D_9AABB5A00B54_en_1.webp
+imlevel_DE2060C1_FDA7_DB50_41EB_4094DFE2468C.url = media/map_EE7666DF_D2C9_8B76_419D_9AABB5A00B54_en_2.webp
+imlevel_C980FE94_FCF9_1CC6_41DC_14C7DE92BB7A.url = media/panorama_C5D18DA7_CBBF_9A37_41CA_3B8607F6A911_HS_6805idbi_en.webp
+imlevel_D2341FFD_FC09_EE57_41CB_CCB66BB6B3C1.url = media/panorama_DFAB7E85_CAB7_96EB_41E7_3B173DA5F897_HS_br0kwb7g_en.webp
+
+### Title
+video_EFA89BFE_F37C_1031_41EA_E707E29AB637.label = Alpha
+video_EE19B905_F364_11D3_41EC_AA552BD8E83E.label = Bravo
+video_EE43FF3F_F35C_702F_41E4_68893007E745.label = Charlie
+video_E901F4B1_F4E4_1033_41ED_781AE8A22C07.label = Delta
+video_E9B065FF_F4DC_102F_41DA_89D88006A39C.label = Echo
+video_E99F7367_F4E4_705F_41EC_9394976D2415.label = Foxtrot
+video_EA7724AB_F4FC_30D6_41E8_0BBBC24D2F4E.label = Golf
+video_EAE1AFFD_F52C_1033_41E2_8CBEAEB49BE5.label = Hotel
+photo_C758294F_D24E_7956_41D8_7E669246BB54.label = Image2
+photo_C758294F_D24E_7956_41D8_7E669246BB54.label = Image2
+album_FB4223B2_D3D0_2996_41C0_039F385B36BE_0.label = Image3
+photo_EB8BFCF9_D276_9F3B_41C5_818EF1FF6439.label = Image4
+photo_EB8BFCF9_D276_9F3B_41C5_818EF1FF6439.label = Image4
+video_EB40F560_F524_1051_41E5_86FECC503E52.label = India
+video_E05C2A80_F32C_30D1_41CF_2A2F0BF7FD53.label = Introduction
+video_EB81AABA_F53C_3031_41E1_9E61CB49E2BA.label = Juliet
+video_EAC9DC64_F524_1051_41AA_E14E9E2C58B4.label = Kilo
+video_D5174CDC_F524_3071_41E1_39D644610F0C.label = Lima
+video_EB5E89E4_F524_1051_41A3_5194B890624F.label = Mike
+video_EB7F4D8A_F5DC_10D1_41CA_061E66CCB4F1.label = November
+panorama_DC252E1F_CED0_1D41_41D5_4747B202BECD.label = Panorama10
+panorama_DFAD8C18_CEF0_1D4E_41D7_EE8C74ADDE33.label = Panorama11
+panorama_DACFE0AE_CEF0_0543_41C4_9609CFDF7DF6.label = Panorama12
+panorama_DC10F7AC_CED0_0B46_41E0_16352CF2F558.label = Panorama13
+panorama_DC40B0A1_CE50_057E_41E4_643C7C43BD07.label = Panorama14
+panorama_DF34393C_CE70_0746_41E8_B1B223A14345.label = Panorama15
+panorama_DCE40EA1_CE50_1D41_41DC_05D612943375.label = Panorama16
+panorama_DDBA6A85_CFD0_0541_415D_CC7CA55C883E.label = Panorama17
+panorama_DD79FCD5_CE50_1EC1_41D4_7FB7C7B567BE.label = Panorama18
+panorama_DA8C41D6_CE50_06C2_41BF_AAC74EB4DD55.label = Panorama19
+panorama_C5D18DA7_CBBF_9A37_41CA_3B8607F6A911.label = Panorama1_000
+panorama_DBEC3CEA_CBB1_7A3E_41B4_A99FF3386DC0.label = Panorama2
+panorama_DADADF4C_CE70_7BC6_41E5_B34856E473DD.label = Panorama20
+panorama_DA367588_CE50_0F4F_41D9_C3998BD5458C.label = Panorama21
+panorama_DCE6E298_CEF0_EB92_41D6_BFA3E4F9D8DF.label = Panorama22
+panorama_C5ABC2F0_D1B0_2B91_41DA_6B0C2966CFC1.label = Panorama23
+panorama_C4FC947A_D1F0_EE91_41C9_5F526D165A5A.label = Panorama24
+panorama_CA987714_D1D0_2A91_41A3_FC3BCE4CE24D.label = Panorama25
+panorama_CD736257_D1B0_2A9F_41E5_A38453D365FB.label = Panorama26
+panorama_CE987C0C_D270_3E71_41C5_0CA632B29337.label = Panorama27
+panorama_CE70D424_D250_2EB1_41E8_1A9BC38DE004.label = Panorama28
+panorama_F07ABE9A_D2B1_FB91_41B2_8AD98DA5328C.label = Panorama29
+panorama_D8B4796A_CB93_9A39_41B8_4D35166EC050.label = Panorama3
+panorama_F0B0F6D7_D2F0_2B9F_41C4_B5E9ACB0D5A8.label = Panorama30
+panorama_F171633E_D2D1_EA91_41E9_6699DF16F9D3.label = Panorama31
+panorama_F2F794F8_D2D0_6F92_41E0_A76B0DD9C07D.label = Panorama32
+panorama_F3398F32_D2B0_7A96_41E9_2E66A0A2A4AA.label = Panorama33
+panorama_F6A7D808_D250_2671_41E6_7E6EAE22BE39.label = Panorama34
+panorama_DD9BB4B2_D23F_8FCE_41CD_A9516801B638.label = Panorama35
+panorama_C0F837B2_D236_89C9_41E4_E6AF66F05109.label = Panorama36
+panorama_CFC8307A_D24A_8739_41E8_8A5C89824BB8.label = Panorama37
+panorama_CC9EF288_D24A_8BDA_41E6_C83595854338.label = Panorama38
+panorama_F02A1F16_D239_9AC9_41E0_399EB5826E1C.label = Panorama39
+panorama_D92C916D_CB91_6A3A_41E7_99555EB537D9.label = Panorama4
+panorama_F057EFD5_D23A_994B_41E4_09288DB0B822.label = Panorama40
+panorama_F13C4201_D2C9_8ACB_41E3_F4E3F1D0B1C1.label = Panorama41
+panorama_F6B7E327_D2CA_8AD7_41E6_36D004D29A40.label = Panorama42
+panorama_F6DA2E46_D2CA_9B49_41DC_FA2176FA2150.label = Panorama43
+panorama_F6936F6A_D236_B959_41DB_B8C4C1B20511.label = Panorama44
+panorama_F4A5A46F_D24A_8F56_41E7_4CBF377FC13C.label = Panorama45
+panorama_F910C594_D276_89C9_41E3_350E55F9F633.label = Panorama46
+panorama_FCCD5501_D25E_8ECB_418F_9C1CB4E06DD0.label = Panorama47
+panorama_FCCA1717_D256_8AF7_41A0_E5B875181362.label = Panorama48
+panorama_FC69482C_D24B_86DA_41D1_882E84498CFA.label = Panorama49
+panorama_DFAB7E85_CAB7_96EB_41E7_3B173DA5F897.label = Panorama5
+panorama_F937B9D5_D237_994A_41C7_C6467F60327F.label = Panorama50
+panorama_FFE18709_D3D6_8ADB_41AD_9B71BC56FF99.label = Panorama51
+panorama_FCBCA039_D3C9_873B_41EA_61761038319E.label = Panorama52
+panorama_E0C52166_D3C9_8956_41E5_04DBD288602E.label = Panorama53
+panorama_E05C8A1F_D3DE_9AF6_41BB_CA171F21978E.label = Panorama54
+panorama_E04694D7_D239_8F76_41D0_3DECCE3C4AD9.label = Panorama55
+panorama_E6E36F57_D257_B977_41E0_1EDBFEAAFA98.label = Panorama56
+panorama_E65F4B7B_D249_993F_41E6_4F6C5803B50A.label = Panorama57
+panorama_E843B9B0_D2D7_F9C9_41E1_CB0934C27EA6.label = Panorama58
+panorama_93B61720_D2DA_8AC9_41E6_B67929C90B12.label = Panorama59
+panorama_C0D78ADA_CE70_1AC3_41E9_27C57090EAA9.label = Panorama6
+panorama_E934D398_D2C9_89FA_41E2_8E9801EDECB5.label = Panorama60
+panorama_9B63484D_D2D9_875B_41E5_3A7B384C76D2.label = Panorama61
+panorama_92D479E5_D2DA_994A_41B4_F3B34424DC64.label = Panorama62
+panorama_962D87C8_D256_895A_4198_81B9AA65FCE8.label = Panorama63
+panorama_95420534_D257_8ECA_41E8_39AA0B4CFA38.label = Panorama64
+panorama_9A6D6697_D27A_8BF7_41E9_7552BCE356B2.label = Panorama65
+panorama_983D79FD_D25E_F93B_41D6_47AFCA704040.label = Panorama66
+panorama_9A5314CC_D5F6_8F59_41E3_EE9AAC689431.label = Panorama67
+panorama_9FD54216_D5C9_8AC9_419D_C3D5CB55F4AD.label = Panorama68
+panorama_9FD89062_D5CA_8749_41E2_B08A882BA7BB.label = Panorama69
+panorama_DCFB85AF_CE50_0F41_41C1_CEB1EE474198.label = Panorama7
+panorama_9FD4E946_D5CB_B949_41DE_48BFE91E4261.label = Panorama70
+panorama_877A7D7B_D5CA_993F_41E1_19E2D2AA8179.label = Panorama71
+panorama_87EB44EA_D67A_8F5E_41D7_9A91ADFC4823.label = Panorama72
+panorama_9BE76C68_D676_FF59_41C6_5A9CD9A48522.label = Panorama73
+panorama_81AB1418_D659_8EFA_41E3_4009A2E44E9A.label = Panorama74
+panorama_85E687DA_D65B_8979_41AF_9BA58525C978.label = Panorama75
+panorama_82782C17_D649_9EF6_41A2_22B65A493382.label = Panorama76
+panorama_8231111D_D637_86FB_41D6_0E23B0D7FBD5.label = Panorama77
+panorama_81A20CB5_D6C9_BFCB_41E5_727D5DE81F01.label = Panorama78
+panorama_83406A82_D6CA_BBCE_41DB_2F915A99EA17.label = Panorama79
+panorama_DE5687AD_CEB0_0B41_41B4_C19118965BB3.label = Panorama8
+panorama_8D75FF94_D63B_B9C9_4188_3E3E7A26978E.label = Panorama80
+panorama_8041BF24_D6CA_9AC9_41E8_D12D9A5A4E2A.label = Panorama81
+panorama_80E989AE_D6C9_99D9_41B8_15D007C7AABE.label = Panorama82
+panorama_826A6D97_D637_B9F6_41E6_9DCD21BCE4F7.label = Panorama83
+panorama_8816FB4B_D65E_B95F_41E9_17704C00703C.label = Panorama84
+panorama_8D8026CD_D659_8B5B_41E7_14C086AB20A5.label = Panorama85
+panorama_83A50D3A_D65B_993E_41B0_966F4B717A3C.label = Panorama86
+panorama_83CE57B2_D65A_89C9_41DB_625B0F9566E0.label = Panorama87
+panorama_8CE1F1F1_D64A_894A_41D4_1AB5BEAC8376.label = Panorama88
+panorama_822C115A_D64B_8979_41B5_E47A6E632E7B.label = Panorama89
+panorama_DAA0B914_CED0_0746_41D1_E59894F3325A.label = Panorama9
+panorama_8F789A9C_D649_BBFA_41D0_7E8E8A3C1A7E.label = Panorama90
+panorama_82CF92F9_D676_8B3B_41E1_28AF3C7FF3E7.label = Panorama91
+panorama_8C2F09EF_D676_9955_41CC_07B3944892A6.label = Panorama92
+panorama_8D1503AD_D679_89DA_416C_29B1FECC95B5.label = Panorama93
+panorama_828C0867_D67A_8757_41E8_9D27398F370D.label = Panorama94
+panorama_82D075AF_D67B_89D6_41A1_8DE3961F8CE5.label = Panorama95
+album_FB4223B2_D3D0_2996_41C0_039F385B36BE.label = Photo Album
+video_C12B41EA_F72B_F051_41D9_F877862F564C.label = Tutorial
+video_DA0D22B6_F52C_F031_41D5_33A455EA6A31.label = Welcome
+map_EE7666DF_D2C9_8B76_419D_9AABB5A00B54.label = map adj
+
+### Video
+videolevel_EE71BBF0_F714_B6B3_41E2_CDD006EC59A1.url = media/video_C12B41EA_F72B_F051_41D9_F877862F564C_en.m3u8
+videolevel_C0093132_F724_1031_41EC_E190199B242A.url = media/video_C12B41EA_F72B_F051_41D9_F877862F564C_en.mp4
+videolevel_C0093132_F724_1031_41EC_E190199B242A.posterURL = media/video_C12B41EA_F72B_F051_41D9_F877862F564C_poster_en.jpg
+videolevel_EE71BBF0_F714_B6B3_41E2_CDD006EC59A1.posterURL = media/video_C12B41EA_F72B_F051_41D9_F877862F564C_poster_en.jpg
+videolevel_EFC89723_F715_9F55_41E1_F3177067BF71.url = media/video_D5174CDC_F524_3071_41E1_39D644610F0C_en.m3u8
+videolevel_D53F490B_F5DC_11D7_41E5_88AB1217BBCE.url = media/video_D5174CDC_F524_3071_41E1_39D644610F0C_en.mp4
+videolevel_D53F490B_F5DC_11D7_41E5_88AB1217BBCE.posterURL = media/video_D5174CDC_F524_3071_41E1_39D644610F0C_poster_en.jpg
+videolevel_EFC89723_F715_9F55_41E1_F3177067BF71.posterURL = media/video_D5174CDC_F524_3071_41E1_39D644610F0C_poster_en.jpg
+videolevel_EF8D373F_F714_9FAD_41E1_1ADC905C76E6.url = media/video_DA0D22B6_F52C_F031_41D5_33A455EA6A31_en.m3u8
+videolevel_C7804D9F_F52F_F0EF_4173_739AE58F0CB4.url = media/video_DA0D22B6_F52C_F031_41D5_33A455EA6A31_en.mp4
+videolevel_C7804D9F_F52F_F0EF_4173_739AE58F0CB4.posterURL = media/video_DA0D22B6_F52C_F031_41D5_33A455EA6A31_poster_en.jpg
+videolevel_EF8D373F_F714_9FAD_41E1_1ADC905C76E6.posterURL = media/video_DA0D22B6_F52C_F031_41D5_33A455EA6A31_poster_en.jpg
+videolevel_EF57C7E6_F717_9EDF_41ED_2C1D5B95A246.url = media/video_E05C2A80_F32C_30D1_41CF_2A2F0BF7FD53_en.m3u8
+videolevel_E10743CF_F324_106F_41E0_67B07A81091B.url = media/video_E05C2A80_F32C_30D1_41CF_2A2F0BF7FD53_en.mp4
+videolevel_EF57C7E6_F717_9EDF_41ED_2C1D5B95A246.posterURL = media/video_E05C2A80_F32C_30D1_41CF_2A2F0BF7FD53_poster_en.jpg
+videolevel_E10743CF_F324_106F_41E0_67B07A81091B.posterURL = media/video_E05C2A80_F32C_30D1_41CF_2A2F0BF7FD53_poster_en.jpg
+videolevel_EE3A599D_F71D_936D_41E0_903E46BB4001.url = media/video_E901F4B1_F4E4_1033_41ED_781AE8A22C07_en.m3u8
+videolevel_D5130BFB_F5DC_3037_41C9_509C4C481BD5.url = media/video_E901F4B1_F4E4_1033_41ED_781AE8A22C07_en.mp4
+videolevel_EE3A599D_F71D_936D_41E0_903E46BB4001.posterURL = media/video_E901F4B1_F4E4_1033_41ED_781AE8A22C07_poster_en.jpg
+videolevel_D5130BFB_F5DC_3037_41C9_509C4C481BD5.posterURL = media/video_E901F4B1_F4E4_1033_41ED_781AE8A22C07_poster_en.jpg
+videolevel_EE951E72_F71C_B1B7_41E8_606FD0A92029.url = media/video_E99F7367_F4E4_705F_41EC_9394976D2415_en.m3u8
+videolevel_D5197DBB_F5DC_3037_41ED_89E94B1F58DC.url = media/video_E99F7367_F4E4_705F_41EC_9394976D2415_en.mp4
+videolevel_D5197DBB_F5DC_3037_41ED_89E94B1F58DC.posterURL = media/video_E99F7367_F4E4_705F_41EC_9394976D2415_poster_en.jpg
+videolevel_EE951E72_F71C_B1B7_41E8_606FD0A92029.posterURL = media/video_E99F7367_F4E4_705F_41EC_9394976D2415_poster_en.jpg
+videolevel_EF5C273A_F71B_7FB7_41D7_5950F22F3894.url = media/video_E9B065FF_F4DC_102F_41DA_89D88006A39C_en.m3u8
+videolevel_D50D6A48_F5DC_3051_41CB_26BAA2EED226.url = media/video_E9B065FF_F4DC_102F_41DA_89D88006A39C_en.mp4
+videolevel_EF5C273A_F71B_7FB7_41D7_5950F22F3894.posterURL = media/video_E9B065FF_F4DC_102F_41DA_89D88006A39C_poster_en.jpg
+videolevel_D50D6A48_F5DC_3051_41CB_26BAA2EED226.posterURL = media/video_E9B065FF_F4DC_102F_41DA_89D88006A39C_poster_en.jpg
+videolevel_EF00BF11_F71F_8F75_41D8_018EB5EAF7E7.url = media/video_EA7724AB_F4FC_30D6_41E8_0BBBC24D2F4E_en.m3u8
+videolevel_D51E9F7D_F5DC_3033_41E8_0001F3EA3F93.url = media/video_EA7724AB_F4FC_30D6_41E8_0BBBC24D2F4E_en.mp4
+videolevel_EF00BF11_F71F_8F75_41D8_018EB5EAF7E7.posterURL = media/video_EA7724AB_F4FC_30D6_41E8_0BBBC24D2F4E_poster_en.jpg
+videolevel_D51E9F7D_F5DC_3033_41E8_0001F3EA3F93.posterURL = media/video_EA7724AB_F4FC_30D6_41E8_0BBBC24D2F4E_poster_en.jpg
+videolevel_EF4AF789_F71B_7F55_41B2_C6495378247C.url = media/video_EAC9DC64_F524_1051_41AA_E14E9E2C58B4_en.m3u8
+videolevel_D536F73C_F5DC_1031_41BF_8528C342744B.url = media/video_EAC9DC64_F524_1051_41AA_E14E9E2C58B4_en.mp4
+videolevel_D536F73C_F5DC_1031_41BF_8528C342744B.posterURL = media/video_EAC9DC64_F524_1051_41AA_E14E9E2C58B4_poster_en.jpg
+videolevel_EF4AF789_F71B_7F55_41B2_C6495378247C.posterURL = media/video_EAC9DC64_F524_1051_41AA_E14E9E2C58B4_poster_en.jpg
+videolevel_EFF86F05_F71C_8F5D_41A1_B5381552E7DC.url = media/video_EAE1AFFD_F52C_1033_41E2_8CBEAEB49BE5_en.m3u8
+videolevel_D525714B_F5DC_1057_4180_B57A6172FA19.url = media/video_EAE1AFFD_F52C_1033_41E2_8CBEAEB49BE5_en.mp4
+videolevel_EFF86F05_F71C_8F5D_41A1_B5381552E7DC.posterURL = media/video_EAE1AFFD_F52C_1033_41E2_8CBEAEB49BE5_poster_en.jpg
+videolevel_D525714B_F5DC_1057_4180_B57A6172FA19.posterURL = media/video_EAE1AFFD_F52C_1033_41E2_8CBEAEB49BE5_poster_en.jpg
+videolevel_EE5B1FB5_F71D_8EBD_41D1_0F18DCD4AEBC.url = media/video_EB40F560_F524_1051_41E5_86FECC503E52_en.m3u8
+videolevel_D52AF3B8_F5DC_1031_41DC_7ACCD99FCB92.url = media/video_EB40F560_F524_1051_41E5_86FECC503E52_en.mp4
+videolevel_EE5B1FB5_F71D_8EBD_41D1_0F18DCD4AEBC.posterURL = media/video_EB40F560_F524_1051_41E5_86FECC503E52_poster_en.jpg
+videolevel_D52AF3B8_F5DC_1031_41DC_7ACCD99FCB92.posterURL = media/video_EB40F560_F524_1051_41E5_86FECC503E52_poster_en.jpg
+videolevel_EEBFA1C2_F714_92D7_41E3_62F48BB0D2D6.url = media/video_EB5E89E4_F524_1051_41A3_5194B890624F_en.m3u8
+videolevel_D5445AEA_F5DC_1051_41E4_3EDEC47C10A9.url = media/video_EB5E89E4_F524_1051_41A3_5194B890624F_en.mp4
+videolevel_D5445AEA_F5DC_1051_41E4_3EDEC47C10A9.posterURL = media/video_EB5E89E4_F524_1051_41A3_5194B890624F_poster_en.jpg
+videolevel_EEBFA1C2_F714_92D7_41E3_62F48BB0D2D6.posterURL = media/video_EB5E89E4_F524_1051_41A3_5194B890624F_poster_en.jpg
+videolevel_EF1575F3_F717_92B5_41D6_7F7248CC1CFC.url = media/video_EB7F4D8A_F5DC_10D1_41CA_061E66CCB4F1_en.m3u8
+videolevel_D54CECD2_F5DC_1071_41EC_9B0A75149051.url = media/video_EB7F4D8A_F5DC_10D1_41CA_061E66CCB4F1_en.mp4
+videolevel_D54CECD2_F5DC_1071_41EC_9B0A75149051.posterURL = media/video_EB7F4D8A_F5DC_10D1_41CA_061E66CCB4F1_poster_en.jpg
+videolevel_EF1575F3_F717_92B5_41D6_7F7248CC1CFC.posterURL = media/video_EB7F4D8A_F5DC_10D1_41CA_061E66CCB4F1_poster_en.jpg
+videolevel_EF3564C2_F71C_92D7_41DB_E9F4C9C75B59.url = media/video_EB81AABA_F53C_3031_41E1_9E61CB49E2BA_en.m3u8
+videolevel_D530257D_F5DC_1033_41B8_62A5F1255374.url = media/video_EB81AABA_F53C_3031_41E1_9E61CB49E2BA_en.mp4
+videolevel_EF3564C2_F71C_92D7_41DB_E9F4C9C75B59.posterURL = media/video_EB81AABA_F53C_3031_41E1_9E61CB49E2BA_poster_en.jpg
+videolevel_D530257D_F5DC_1033_41B8_62A5F1255374.posterURL = media/video_EB81AABA_F53C_3031_41E1_9E61CB49E2BA_poster_en.jpg
+videolevel_EE4C6D59_F715_93F5_41DF_5F98105EE459.url = media/video_EE19B905_F364_11D3_41EC_AA552BD8E83E_en.m3u8
+videolevel_D5FE46A8_F5DC_30D1_41E3_36036DBB05F4.url = media/video_EE19B905_F364_11D3_41EC_AA552BD8E83E_en.mp4
+videolevel_D5FE46A8_F5DC_30D1_41E3_36036DBB05F4.posterURL = media/video_EE19B905_F364_11D3_41EC_AA552BD8E83E_poster_en.jpg
+videolevel_EE4C6D59_F715_93F5_41DF_5F98105EE459.posterURL = media/video_EE19B905_F364_11D3_41EC_AA552BD8E83E_poster_en.jpg
+videolevel_E0DBD083_F714_9155_41CC_076662971219.url = media/video_EE43FF3F_F35C_702F_41E4_68893007E745_en.m3u8
+videolevel_D5071865_F5DC_3053_41D5_E52168F1F190.url = media/video_EE43FF3F_F35C_702F_41E4_68893007E745_en.mp4
+videolevel_E0DBD083_F714_9155_41CC_076662971219.posterURL = media/video_EE43FF3F_F35C_702F_41E4_68893007E745_poster_en.jpg
+videolevel_D5071865_F5DC_3053_41D5_E52168F1F190.posterURL = media/video_EE43FF3F_F35C_702F_41E4_68893007E745_poster_en.jpg
+videolevel_EFE89D60_F714_F3D3_41DB_EDD19B21D0DD.url = media/video_EFA89BFE_F37C_1031_41EA_E707E29AB637_en.m3u8
+videolevel_EF9F74A5_F37C_30D3_41E0_D8C738A17B6A.url = media/video_EFA89BFE_F37C_1031_41EA_E707E29AB637_en.mp4
+videolevel_EFE89D60_F714_F3D3_41DB_EDD19B21D0DD.posterURL = media/video_EFA89BFE_F37C_1031_41EA_E707E29AB637_poster_en.jpg
+videolevel_EF9F74A5_F37C_30D3_41E0_D8C738A17B6A.posterURL = media/video_EFA89BFE_F37C_1031_41EA_E707E29AB637_poster_en.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_D9BC022C_FCA9_27C6_41E7_1BDFEB9A4FCB.label = DESIGNER
+Button_DAD3823A_FCA9_67C2_41ED_1D2DF66533B6_mobile.label = DESIGNER
+Button_E3F95EDB_F242_63EC_4187_AE61AE4329CC.label = FLOORPLAN
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFO
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = INFO
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = LOCATION
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = LOCATION
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = PANORAMA LIST
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PANORAMAS
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = PHOTOALBUM
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = PHOTOS
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = REALTOR
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = REALTOR
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = TUTORIAL
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = TUTORIAL
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145_mobile.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
+
+### Image
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_en.jpg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_en.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_en.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_en.jpg
+Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_en.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_en.png
+Image_D757994A_FCE7_2442_41A0_FA0B6391CA02.url = skin/Image_D757994A_FCE7_2442_41A0_FA0B6391CA02_en.jpg
+Image_D7D79FA2_FCA7_7CC2_41C8_D1272F15FE22.url = skin/Image_D7D79FA2_FCA7_7CC2_41C8_D1272F15FE22_en.png
+Image_D91830B8_FCAB_24CE_41D1_8166A5EED859.url = skin/Image_D91830B8_FCAB_24CE_41D1_8166A5EED859_en.jpg
+Image_D92430BA_FCAB_24C2_41E1_73C2CBACAB75.url = skin/Image_D92430BA_FCAB_24C2_41E1_73C2CBACAB75_en.jpg
+Image_DA98F3AC_FCA9_64C6_419B_1516B6A97DA1_mobile.url = skin/Image_DA98F3AC_FCA9_64C6_419B_1516B6A97DA1_mobile_en.jpg
+Image_DA9BE3A6_FCA9_64C2_41E9_67A7890CCE00_mobile.url = skin/Image_DA9BE3A6_FCA9_64C2_41E9_67A7890CCE00_mobile_en.jpg
+
+### Label
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2.text = 11 Rousseau Road, Kingston 5
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = 11 Rousseau Road, Kingston 5
+Label_96EBFA68_D24E_9B59_41CA_C96AB1FCB485.text = MAP
+Label_99DE4C7B_D236_9F3E_41E7_6133CE1DF153.text = MAP
+Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = Rousseau Road Commercial Complex
+Label_0DD14F09_1744_0507_41AA_D8475423214A.text = Rousseau Road Commercial Complex
+
+### Multiline Text
+HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_DA9853AE_FCA9_64C2_41EC_642480B445A8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_D924C0BA_FCAB_24C2_41ED_044DA1587306.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.1899999999999986vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:2.19vmin;font-family:'Bebas Neue Bold';">Address:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.770083102493076vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.77vmin;font-family:'Bebas Neue Bold';">Suite 27,</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.770083102493076vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.77vmin;font-family:'Bebas Neue Bold';">Winchester Business Centre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.770083102493076vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.77vmin;font-family:'Bebas Neue Bold';">15 Hope Road,</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.770083102493076vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.77vmin;font-family:'Bebas Neue Bold';">Kington 10.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1899999999999986vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:2.19vmin;font-family:'Bebas Neue Bold';">Contact Number:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.770083102493076vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.77vmin;font-family:'Bebas Neue Bold';">(876) Elk-anah 355-2624</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1899999999999986vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:2.19vmin;font-family:'Bebas Neue Bold';">Email Address:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.770083102493076vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.77vmin;font-family:'Bebas Neue Bold';">consult@rexerinc.com</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1899999999999986vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:2.19vmin;font-family:'Bebas Neue Bold';">Website:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.770083102493076vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.77vmin;font-family:'Bebas Neue Bold';">www.rexerinc.com (under construction)</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1899999999999986vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:2.19vmin;font-family:'Bebas Neue Bold';">Instagram:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.770083102493076vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.77vmin;font-family:'Bebas Neue Bold';">rexer.inc</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9300000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.93vmin;font-family:'Bebas Neue Bold';">john doe</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.5099999999999976vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.51vmin;font-family:'Bebas Neue Bold';">licensed real estate salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1899999999999986vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1899999999999986vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1899999999999986vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">www.loremipsum.com</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5300000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999997vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.6700000000000035vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">Rousseau Road Commercial Complex</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.320441988950275vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.32vmin;">Experience the Rousseau Warehouse Development at 11 Rousseau Road, Kingston 5 from anywhere through our convenient virtual tour. This interactive tour allows prospective tenants to explore the layout and features of the warehouse units, including the spacious two-floor design and ground floor bathroom in each unit. View the parking areas, overall property layout, and security features such as the guardhouse, all from the comfort of your home or office. The virtual tour provides a clear sense of the space and functionality, helping businesses confidently evaluate the property before scheduling an in-person visit.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5300000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Located in the heart of Kingston’s commercial corridor, Rousseau Warehouse Development at 11 Rousseau Road, Kingston 5 offers modern, secure warehouse spaces designed to support a wide range of business operations. The development features 14 warehouse units totaling 23,940 square feet, providing flexible space for storage, distribution, and light industrial use. Each unit is thoughtfully designed with two floors and a bathroom on the ground floor, giving tenants both operational space and convenient facilities.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5300000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">The property is built for efficiency and accessibility, featuring a guardhouse and service area totaling 290 square feet, 21 parking spaces, and 2 designated disabled parking spaces to accommodate staff and visitors. With its strategic location and practical layout, Rousseau Warehouse Development presents an excellent opportunity for businesses seeking secure, well-organized warehouse space in Kingston 5.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.3vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.3000000000000016vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;"> </SPAN><SPAN STYLE="font-size:1.53vmin;">• Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999997vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.6700000000000035vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">location</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.3900000000000032vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">11 Rousseau Rd, Kingston</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.3900000000000032vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">Jamaica, W.I.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_E3816D68_F241_E6AC_41C3_C90A555180A8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000008vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.140000000000008vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000008vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.140000000000008vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_D92770B9_FCAB_24CE_41DA_D03FAF028753.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.760000000000008vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.6700000000000115vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vh;font-family:'Bebas Neue Bold';">REXER</SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.760000000000008vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.6700000000000115vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vh;font-family:'Bebas Neue Bold';">real estate agent</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.050000000000008vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:10.05vmin;font-family:'Bebas Neue Bold';">john doe</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.230000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';">licensed real estate salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.28vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.589999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.589999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.589999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">www.loremipsum.com</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.050000000000008vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.05vmin;font-family:'Bebas Neue Bold';">location</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:9.19220055710306vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:9.19vmin;font-family:'Bebas Neue Bold';">11 Rousseau Rd, Kingston</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:9.19220055710306vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:9.19vmin;font-family:'Bebas Neue Bold';">Jamaica, W.I.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac.</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_DA99E3AE_FCA9_64C2_41E0_CA5233F6167F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.392166666666663vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:4.39vmin;font-family:'Bebas Neue Bold';">Address:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.55555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.56vmin;font-family:'Bebas Neue Bold';">Suite 27,</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.55555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.56vmin;font-family:'Bebas Neue Bold';">Winchester Business Centre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.55555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.56vmin;font-family:'Bebas Neue Bold';">15 Hope Road,</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.55555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.56vmin;font-family:'Bebas Neue Bold';">Kington 10.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.54vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.392166666666663vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:4.39vmin;font-family:'Bebas Neue Bold';">Contact Number:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.55555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.56vmin;font-family:'Bebas Neue Bold';">(876) Elk-anah 355-2624</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.54vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.392166666666663vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:4.39vmin;font-family:'Bebas Neue Bold';">Email Address:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.55555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.56vmin;font-family:'Bebas Neue Bold';">consult@rexerinc.com</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.54vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.392166666666663vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:4.39vmin;font-family:'Bebas Neue Bold';">Website:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.55555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.56vmin;font-family:'Bebas Neue Bold';">www.rexerinc.com (under construction)</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.54vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.392166666666663vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:4.39vmin;font-family:'Bebas Neue Bold';">Instagram:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.55555555555556vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.56vmin;font-family:'Bebas Neue Bold';">rexer.inc</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.470752089136484vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.47vmin;font-family:'Bebas Neue Bold';">Rousseau Road Commercial Complex</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.621169916434538vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.62vmin;">Experience the Rousseau Warehouse Development at 11 Rousseau Road, Kingston 5 from anywhere through our convenient virtual tour. This interactive tour allows prospective tenants to explore the layout and features of the warehouse units, including the spacious two-floor design and ground floor bathroom in each unit. View the parking areas, overall property layout, and security features such as the guardhouse, all from the comfort of your home or office. The virtual tour provides a clear sense of the space and functionality, helping businesses confidently evaluate the property before scheduling an in-person visit.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.621169916434538vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.62vmin;">Located in the heart of Kingston’s commercial corridor, Rousseau Warehouse Development at 11 Rousseau Road, Kingston 5 offers modern, secure warehouse spaces designed to support a wide range of business operations. The development features 14 warehouse units totaling 23,940 square feet, providing flexible space for storage, distribution, and light industrial use. Each unit is thoughtfully designed with two floors and a bathroom on the ground floor, giving tenants both operational space and convenient facilities.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.62vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.72vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.621169916434538vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.62vmin;">The property is built for efficiency and accessibility, featuring a guardhouse and service area totaling 290 square feet, 21 parking spaces, and 2 designated disabled parking spaces to accommodate staff and visitors. With its strategic location and practical layout, Rousseau Warehouse Development presents an excellent opportunity for businesses seeking secure, well-organized warehouse space in Kingston 5.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.04vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.230000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Rousseau Warehouse Dev
